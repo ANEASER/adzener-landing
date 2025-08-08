@@ -1,6 +1,6 @@
 {
-  "homepage": "http://aneaser.github.io/adzener-landing",
   "name": "trendforge-frontend",
+  "homepage": "https://aneaser.github.io/adzener-landing/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
