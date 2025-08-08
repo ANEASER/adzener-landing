@@ -1,5 +1,5 @@
 {
-  "homepage": "http://aneaser.github.io/adzener",
+  "homepage": "http://aneaser.github.io/adzener-landing",
   "name": "trendforge-frontend",
   "private": true,
   "version": "0.0.0",
@@ -9,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@babel/runtime": "^7.27.6",
